@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Se trata de una aplicación sencilla, para llevar un control de tareas pendientes realizada con ReactJs, Hooks, y CSS.
 
+<p align="center">
+  <img height="300" src="./src/assets/todo-list.jpeg" />
+</p>
+
 # Características principales::
 
 <li>Creación de nuevas tareas.</li>
